@@ -1,0 +1,5 @@
+package pt.americolib.bean.core;
+
+public class DropdownView {
+
+}

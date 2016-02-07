@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en"
+		xmlns="http://www.w3.org/1999/xhtml"  
+    	xmlns:h="http://java.sun.com/jsf/html"  
+    	xmlns:f="http://java.sun.com/jsf/core"  
+    	xmlns:p="http://primefaces.org/ui"> 
+	<!-- HEAD -->
+	<h:head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<link rel="icon" href="../../favicon.ico">
+
+		<h:title>AmericoTomas Proj</h:title>
+	</h:head>
+	
+	<!-- BODY -->
+	<h:body role="document">
+
+
+<body role="document">
+	<div class="container theme-showcase" role="main">
+		<!-- Main jumbotron for a primary marketing message or call to action -->
+		<div style="background-color: #006600; color: #e5e5ff" class="jumbotron">
+			<h1>xxx</h1>
+			<p>yyy</p>
+			
+			<iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>
+			<p>List with all Videos (youtube)</p>
+			
+		</div>
+		<h2>
+			<span class="label label-default">Type and Description on the
+				projects created this week!!</span>
+		</h2>
+		<div class="row-md-6">
+			<table class="table table-condensed">
+				<thead>
+					<tr>
+						<th>#</th>
+						<th>Type</th>
+						<th>Description</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1</td>
+						<td>Ajax Core</td>
+						<td>PrimeFaces is a popular open source framework for JavaServer Faces</td>
+					</tr>			
+				</tbody>
+			</table>
+		</div>
+		<div class="row"></div>
+		<!-- /.col-sm-4 -->
+		<div class="row-sm-4"  style="text-align: center">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h3 class="panel-title">1- Ajax Core</h3>
+				</div>
+				<div class="panel-body">
+					<h2>
+						<span class="label label-success" style="color: white;">FrontEnd_JS_Angular - Proj01-14</span>
+					</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /container -->
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet"
+		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+		integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+		crossorigin="anonymous">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet"
+		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"
+		integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r"
+		crossorigin="anonymous">
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script
+		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>

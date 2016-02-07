@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en"
+		xmlns="http://www.w3.org/1999/xhtml"  
+    	xmlns:h="http://java.sun.com/jsf/html"  
+    	xmlns:f="http://java.sun.com/jsf/core"  
+    	xmlns:p="http://primefaces.org/ui">  
+	
+	<!-- HEAD -->
+	<h:head>
+		<h:title><h1>PRIMEFACES WITH JSF</h1></h:title>
+	</h:head>
+	
+	<!-- BODY -->
+	<h:body>
+		<!-- Ajax Framework - Basic -->
+		<h3>AJAX Core</h3>
+		<h:form>
+			<h5>BASIC <p:commandButton value="Go To Basic" action="view/basic" /> </h5>
+			<h5>LISTENER <p:commandButton value="Go To Listener" action="view/listener" /> </h5>
+		</h:form>
+	</h:body>
+</html>

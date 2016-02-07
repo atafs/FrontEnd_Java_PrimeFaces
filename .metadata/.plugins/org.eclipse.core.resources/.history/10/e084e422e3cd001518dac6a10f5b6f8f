@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en"
+		xmlns="http://www.w3.org/1999/xhtml"  
+    	xmlns:h="http://java.sun.com/jsf/html"  
+    	xmlns:f="http://java.sun.com/jsf/core"  
+    	xmlns:p="http://primefaces.org/ui">  
+	
+	<!-- HEAD -->
+	<h:head>
+		<h:title><h1>PRIMEFACES WITH JSF</h1></h:title>
+	</h:head>
+	
+	<!-- BODY -->
+	<h:body>
+		<!-- Ajax Framework - Basic -->
+		<h3>AJAX Core</h3>
+		
+		<table style="width:100%">
+		  <tr>
+		  	<td>BASIC</td>
+		  	<td><p:commandButton value="Go To Basic" action="view/core/basic" /></td>
+		  </tr>
+		  <tr>
+		  	<td>LISTENER</td> 
+		  	<td><p:commandButton value="Go To Listener" action="view/core/listener" /></td>
+		  </tr>
+		  <tr>
+		  	<td>PROCESS</td>
+		  	<td><p:commandButton value="Go To Process" action="view/core/process" /></td>
+		  </tr>
+		  <tr>
+		  	<td>DROPDOWN</td>
+		  	<td><p:commandButton value="Go To DropDown" action="view/core/dropdown" /></td>
+		  </tr>
+		  <tr>
+		  	<td>SELECTOR</td>
+		  	<td><p:commandButton value="Go To Selector" action="view/core/selector" /></td>
+		  </tr>
+		</table>
+	</h:body>
+</html>

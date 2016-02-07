@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="icon" href="../../favicon.ico">
+
+<title>AmericoTomas Proj</title>
+
+</head>
+<body role="document">
+	<div class="container theme-showcase" role="main">
+		<!-- Main jumbotron for a primary marketing message or call to action -->
+		<div style="background-color: #006600; color: #e5e5ff" class="jumbotron">
+			<h1>AngularJS, JSF, ASP.NET WS</h1>
+			<p>- AngularJS(Javascript): a very popular Framework. These sites were intended to use some features of this framework. To test it´s potencial</p>
+			<p>- JSF(Java Server Faces): a Front End framework. This case it is a simples login that prints the result of the data inserted in the UI components</p>
+			<p>- ASP.NET WS (Microsoft): creation of a Web APP that reads from a data base (WS) a prints to an HTML page (AngularJS)</p>
+			<p>- Azure (Deploy in a Microsoft platform): release the sites in Azure Microsoft </p>
+			
+			<iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>
+			<p>List with all Videos (youtube)</p>
+			
+		</div>
+		<h2>
+			<span class="label label-default">Type and Description on the
+				projects created this week!!</span>
+		</h2>
+		<div class="row-md-6">
+			<table class="table table-condensed">
+				<thead>
+					<tr>
+						<th>#</th>
+						<th>Type</th>
+						<th>Description</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1</td>
+						<td>AngularJS</td>
+						<td>Javascript based. Projects that highlight some of the features of this framework </td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td>JSF</td>
+						<td>A Front End Java framework based. To work on the view of the App</td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td>ASP.NET WS</td>
+						<td>Another Web App. In this case, using a different IDE (visualStudio). SQL Server to store the data and a WS to retrieve it automatically. </td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td>Azure</td>
+						<td>Testing the abilities of deployment of Microsoft through Azure</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="row"></div>
+		<!-- /.col-sm-4 -->
+		<div class="row-sm-4"  style="text-align: center">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h3 class="panel-title">1- AngularJS</h3>
+				</div>
+				<div class="panel-body">
+					<h2>
+						<span class="label label-success" style="color: white;">FrontEnd_JS_Angular - Proj01-14</span>
+					</h2>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/Ko11xbZfoR0?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h3 class="panel-title">2- Java Server Faces</h3>
+				</div>
+				<div class="panel-body">			
+					<div>
+						<h2>
+							<span class="label label-success" style="color: white;">FrontEnd_Java_JSF - Proj01-02</span>
+						</h2>	
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/knD61DM7_cI?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h3 class="panel-title">ASP.NET WS</h3>
+				</div>
+				<div class="panel-body">
+					<h2>
+						<span class="label label-success" style="color: white;">BackEnd_C-Sharp_ASP_NET_WS_AngularJS - Proj01-02</span>
+					</h2>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/n4GIGLrWXkw?list=PLBaNeIDelX0LWugK_EMfT9q_S85-bH_qY" frameborder="0" allowfullscreen></iframe>
+				</div>
+			</div>
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h3 class="panel-title">4- Sites of these APPS</h3>
+				</div>
+				<div class="panel-body">
+					 <div style="text-align: left">
+				        <h4>Sites of One Page for an AngularJS simple Features:</h4>
+				        <p> - Site01: <a href="http://americotomaslib001nodejsfirst.azurewebsites.net/">001nodejsfirst</a></p>
+				        <p> - Site02: <a href="http://americotomaslib002nodejslibandbinding.azurewebsites.net/">002nodejslibandbinding.</a></p>
+				        <p> - Site03: <a href="http://americotomaslib003nodejsmoduleandcontroller.azurewebsites.net/">003nodejsmoduleandcontroller</a></p>
+				        <p> - Site04: <a href="http://americotomaslib004nodejscontrollers.azurewebsites.net/">004nodejscontrollers</a></p>
+				        <p> - Site05: <a href="http://americotomaslib005nodejssrcdirective.azurewebsites.net/">005nodejssrcdirective</a></p>
+				        <p> - Site06: <a href="http://americotomaslib006twowaydatabinding.azurewebsites.net/">006twowaydatabinding</a></p>
+				        <p> - Site07: <a href="http://americotomaslib007ngrepeat.azurewebsites.net/">007ngrepeat</a></p>
+				        <p> - Site08: <a href="http://americotomaslib008buttonevents.azurewebsites.net/">008buttonevents</a></p>
+				        <p> - Site09: <a href="http://americotomaslib009filters.azurewebsites.net/">009filters</a></p>
+				        <p> - Site10: <a href="http://americotomaslib010filterexactmatch.azurewebsites.net/">010filterexactmatch</a></p>
+				        <p> - Site11: <a href="http://americotomaslib011nghideshow.azurewebsites.net/">011nghideshow</a></p>
+				        <p> - Site12: <a href="http://americotomaslib012nginit.azurewebsites.net/">012nginit</a></p>
+				        <p> - Site13: <a href="http://americotomaslib013anchorscroll.azurewebsites.net/">013anchorscroll</a></p>
+    				</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /container -->
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet"
+		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+		integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
+		crossorigin="anonymous">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet"
+		href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"
+		integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r"
+		crossorigin="anonymous">
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script
+		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>
